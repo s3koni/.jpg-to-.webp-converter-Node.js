@@ -18,7 +18,7 @@ This project is currently focused on local usage and experimentation, with plans
 
 ## Project Structure
 
-```text
+``text``
 .
 ├── components/
 ├── lib/
@@ -51,17 +51,17 @@ This project depends on **libwebp** being available as a system binary.
 Official downloads are provided by Google:
 
 - **WebP download page**  
-  https://developers.google.com/speed/webp/download
+  [libwebp-1.6.0-windows-x64](https://developers.google.com/speed/webp/download)
 
-- **Direct release index (Windows binaries)**  
-  https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html
+- **Direct release index (Windows binaries)**
+  [Windows Binaries](ttps://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html)
 
 Download the following archive:
 libwebp-1.6.0-windows-x64.zip
 
 ---
 
-## Extract
+### Extract
 
 1. Extract the downloaded ZIP file.
 2. Inside it, locate the `bin` folder:
@@ -90,11 +90,11 @@ C:\tools\libwebp-1.6.0-windows-x64\bin
 
 ---
 
-## Verify Installation
+### Verify Installation
 
 Open a new terminal and run:
 
-```cwebp -version
+``cwebp -version``
 
 If installed correctly, the libwebp version information will be displayed.
 
@@ -103,24 +103,25 @@ If installed correctly, the libwebp version information will be displayed.
 ## Installation
 Clone the repository and install dependencies:
 
-```npm install
+``npm install``
 
 ---
 
-##Running the Development Server
+### Running the Development Server
 
 Start the local server with:
 
-```npm run start
+``npm run start``
+
 or
 
-```npm run dev
+``npm run dev``
 
-Then open your browser and enter the ```localhost:port address provided
+Then open your browser and enter the ``localhost:port`` address provided
 
 ---
 
-##Notes on Deployment
+## Notes on Deployment
 
 This project cannot be deployed directly to static hosts in its current form.
 Reasons:
@@ -129,13 +130,13 @@ Reasons:
 
 ---
 
-##The project is currently intended for:
+## The project is currently intended for:
 - Local development
 - Learning and experimentation
 
 ---
 
-##Future refactoring:
+## Future refactoring:
 - Roadmap / Future Improvements
 - Replace native libwebp dependency with a WASM-based encoder
 - Enable cross-platform support (Linux/macOS)
@@ -143,7 +144,7 @@ Reasons:
 
 ---
 
-##Contributing
+## Contributing
 
 Contributions are welcome 🎉
 Feel free to open issues or submit pull requests for:
@@ -151,5 +152,7 @@ Feel free to open issues or submit pull requests for:
 - Refactors
 - Feature additions
 
-License
+---
+
+## License
 MIT License

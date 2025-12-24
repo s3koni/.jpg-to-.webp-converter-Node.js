@@ -4,6 +4,10 @@ A local JPG to WebP image converter built with Next.js. The application runs on 
 
 This project is currently focused on local usage and experimentation, with plans to improve portability and deployment options over time.
 
+<p align="center">
+  <img justify="center" width="499" height="634" alt="image" src="https://github.com/user-attachments/assets/139a3eb6-50fb-4dd2-ad6b-28bc0d249ee5" />
+</p>
+
 ## Features
 * **Convert JPG images**: Transform images to WebP format.
 * **Local Processing**: Performs image processing on the host machine.

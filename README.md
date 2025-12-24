@@ -39,11 +39,11 @@ This project depends on **libwebp** being available as a system binary.
 ### Download
 Official downloads are provided by Google:
 
-- **WebP download page**  
-  [libwebp-1.6.0-windows-x64](https://developers.google.com/speed/webp/download)
+- **WebP Download Page**
+  [Official libwebp Downloads](https://developers.google.com/speed/webp/download)
 
-- **Direct release index (Windows binaries)**
-  [Windows Binaries](ttps://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html)
+- **Direct Release Index (Windows Binaries)**
+  [Index of WebP Releases](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html)
 
 Download the following archive:
 libwebp-1.6.0-windows-x64.zip
